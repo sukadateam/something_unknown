@@ -1,3 +1,4 @@
+#pip install pyAesCrypt
 import pyAesCrypt, os
 os.chdir("C:\\Users\\brobi\\Desktop")
 password=""
